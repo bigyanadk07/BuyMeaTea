@@ -1,7 +1,7 @@
 
-# Buy Me A Tea
+# Buy Me A Chiya
 
-Buy Me a Tea is a platform that allows creators, artists, developers, writers, and other professionals to
+Buy Me a Chiya is a platform that allows creators, artists, developers, writers, and other professionals to
 receive support and donations
 
 
